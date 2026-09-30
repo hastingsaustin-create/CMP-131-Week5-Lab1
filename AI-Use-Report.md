@@ -12,7 +12,7 @@
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [X] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: using if then elif and else to tell the code what to do and in what order before the ouput.
 
 ## Summary
 
